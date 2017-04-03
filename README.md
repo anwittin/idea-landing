@@ -70,3 +70,4 @@ Launching on your own project:
     $ heroku domains:add *.sporproject.com
     ```
     Update your DNS as needed [here](https://github.com/codingforentrepreneurs/Guides/blob/master/all/Heroku_Django_Deployment_Guide.md#add-custom-domain-name)
+# idea-landing
